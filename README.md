@@ -43,7 +43,7 @@ Why is software often treated differently from papers?
 ```
 ## Question 4
 
-Which of these is derivative work?
+Which of these are derivative work?
 Answer 1: Download some code from a website and add on to it
 Answer 2: Download some code and use a function in your code
 Answer 3: Changing the code
